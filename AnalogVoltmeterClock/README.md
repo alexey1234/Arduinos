@@ -17,4 +17,5 @@ obtaining a copy of this software and associated documentation files
 
 ### I used 5.00V Analog voltmeters.
 In case you have full scale more then 5V, like 5,2-6 V buffers can used
+
 ![](./img/crazyclock_with buffers.jpg)

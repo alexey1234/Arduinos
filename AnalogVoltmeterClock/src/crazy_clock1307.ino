@@ -40,7 +40,7 @@
 #define MAXIMUM_PWM_VALUE_MIN 245
 #define MINIMUM_PWM_VALUE_SEC 1
 #define MAXIMUM_PWM_VALUE_SEC 254
-// End values for calibrate meters? it calibrated for my voltmeters
+// End values for calibrate meters, it calibrated for my voltmeters
 #define MINIMUM_COUNT_VALUE_HOUR 0
 #define MAXIMUM_COUNT_VALUE_HOUR 48
 #define MINIMUM_COUNT_VALUE_MIN 0

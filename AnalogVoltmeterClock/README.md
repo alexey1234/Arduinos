@@ -21,6 +21,6 @@ obtaining a copy of this software and associated documentation files
 ![](./img/crazyclock_without_buffers.jpg)
 
 ### I used 5.00V Analog voltmeters.
-In case you have full scale more then 5V, like 5,2-6 V buffers can used https://github.com/alexey1234/Arduinos/blob/main/AnalogVoltmeterClock/img/crazyclock_with%20buffers.jpg
+In case you have full scale more then 5V, like 5,2-6 V, buffers can use as https://github.com/alexey1234/Arduinos/blob/main/AnalogVoltmeterClock/img/crazyclock_with%20buffers.jpg
 
 

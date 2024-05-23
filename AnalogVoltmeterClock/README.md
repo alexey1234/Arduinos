@@ -13,34 +13,4 @@ obtaining a copy of this software and associated documentation files
 
 ## CONNECTIONS
 
-### TinyRTC
-* GND > Arduino GND
-* VCC > Arduino 5V
-* SDA > Arduino A4
-* SCL > Arduino A5
-
-### Button Adjust Hour
-* [] > Arduino D7
-* [] > Arduino GND
-
-### Button Adjust Minute
-* [] > Arduino D8
-* [] > Arduino GND
-
-### Meter HOURS
-* [-] > Arduino GND
-* [+] > Arduino D3
-
-### Meter MINUTES
-* [-] > Arduino GND
-* [+] > Arduino D5
-
-### Meter SECONDS
-* [-] > Arduino GND
-* [+] > Arduino D6
-
-### Meter LEDS
-All LEDs are connected in parallel, with one 33 Ohm resistor.
-
-* LEDS [+] > RESISTOR > Arduino 5V
-* LEDS [-] > Arduino GND
+![](./img/crazyclock_without_buffers.jpg)

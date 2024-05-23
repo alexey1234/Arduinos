@@ -5,6 +5,9 @@
 ![](./img/crazy_watch_1307.jpg)
 
 
+This is copy of perfect projeсt https://github.com/MichMich/AnalogVoltMeterClock/tree/master
+Just added quarter hour indication
+Many thanks to the author
 
 ## LICENSE
 Permission is hereby granted, free of charge, to any person

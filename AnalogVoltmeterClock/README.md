@@ -6,7 +6,9 @@
 
 
 This is copy of perfect projeсt https://github.com/MichMich/AnalogVoltMeterClock/tree/master
-Just added quarter hour indication
+
+Just added quarter hour indication.
+
 Many thanks to the author
 
 ## LICENSE

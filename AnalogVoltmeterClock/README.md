@@ -14,7 +14,7 @@ Many thanks to the author
 ## LICENSE
 Permission is hereby granted, free of charge, to any person
 obtaining a copy of this software and associated documentation files
-(the "Software"). For more info see [LICENSE](https://github.com/MichMich/AnalogVoltMeterClock/blob/master/LICENSE).
+(the "Software"). For more info see [LICENSE](https://github.com/alexey1234/Arduinos/blob/main/AnalogVoltmeterClock/LICENSE).
 
 ## CONNECTIONS
 
